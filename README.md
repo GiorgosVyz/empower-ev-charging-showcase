@@ -2,9 +2,7 @@
 
 ## Overview
 
-**EMPower** is an EV Charging Management Platform  developed as an academic full-stack platform for EV charging service management. It allows electric vehicle users to **discover, browse, navigate to, and reserve charging points** through a web and mobile-friendly 
-interface. In parallel, it provides provider-side management and monitoring capabilities through a **REST API** and a 
-**Command Line Interface (CLI)**.
+**EMPower** is an academic EV Charging Management Platform that allows electric vehicle users to **discover, browse, navigate to, and reserve charging points** through a web and mobile-friendly interface. In parallel, it provides provider-side management and monitoring capabilities through a **REST API** and a **Command Line Interface (CLI)**.
 
 > This repository is a public showcase of the EMPower academic project.  
 > Source code is intentionally not included, as the project remains under active academic development in a private team repository.
