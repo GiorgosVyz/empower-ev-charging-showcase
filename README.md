@@ -44,3 +44,7 @@ EMPower follows a modular architecture consisting of a frontend, a backend expos
 
 - **Deployment**: Containerized runtime environment.  
   *Stack:* Docker, Docker Compose.
+
+## Preview
+
+<img width="960" height="448" alt="image" src="https://github.com/user-attachments/assets/548949ba-a3f0-4455-9dc0-2dd3dc4df0d6" />
