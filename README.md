@@ -45,8 +45,11 @@ EMPower follows a modular architecture consisting of a frontend, a backend expos
 ## Preview
 
 <img width="960" height="448" alt="image" src="https://github.com/user-attachments/assets/548949ba-a3f0-4455-9dc0-2dd3dc4df0d6" />
+
 <img width="960" height="448" alt="image" src="https://github.com/user-attachments/assets/feffc22f-495d-4d1d-8c01-b5fb3d099cab" />
+
 <img width="960" height="449" alt="image" src="https://github.com/user-attachments/assets/7509cdb0-8ab1-46bf-a5b4-981cbd09ea46" />
+
 <img width="960" height="448" alt="image" src="https://github.com/user-attachments/assets/9f22b4aa-7dd1-4e7c-8f9c-8e90ccc703ea" />
 
 ## Academic Context
